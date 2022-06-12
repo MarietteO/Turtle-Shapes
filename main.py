@@ -14,5 +14,5 @@ while x < 11:
         tim.forward(100)
     x +=1
 
-screen = Screen()
+screen = t.Screen()
 screen.exitonclick()
